@@ -19,4 +19,3 @@ install jekyll (it takes a while)
 ~$ gem install jekyll bundler
 ```
 
-*Note*: I hade problems in doing ```source .bashrc``` with zsh, no prob with bash
