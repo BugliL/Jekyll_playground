@@ -9,9 +9,9 @@ sudo apt-get install ruby-full build-essential zlib1g-dev
 
 add to `.bashrc`
 ```bash
-# Install Ruby Gems to ~/gems' >> ~/.bashrc
-export GEM_HOME="$HOME/gems"' >> ~/.bashrc
-export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+# Install Ruby Gems to ~/gems
+export GEM_HOME="$HOME/gems"
+export PATH="$HOME/gems/bin:$PATH"
 ```
 
 install jekyll (it takes a while)
